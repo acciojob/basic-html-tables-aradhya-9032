@@ -5,7 +5,6 @@
 	border-collapse:collapse
 }
 
-/* th,td{
-	padding:15px;
-
-}  */
+ th,td{
+	padding:5px;
+}  
